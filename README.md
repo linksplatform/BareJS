@@ -1,2 +1,2 @@
 # BareJS
-Port of NodeJS to BareMetal OS
+Port of [NodeJS](https://github.com/nodejs) to [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
